@@ -7,8 +7,8 @@ public class Camp {
     public Camp(){
 
     }
-    public Camp(String campname, String location ){
+    public Camp(String campname, String camplocation ){
         this.campname = campname;
-        this.location = location;
+        this.location = camplocation;
     }
 }
